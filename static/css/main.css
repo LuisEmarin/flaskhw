@@ -1,0 +1,21 @@
+#home{
+    color: #f4c0d6;
+    background-color: blue;
+    text-align:center;
+    letter-spacing: 5px;
+    border-radius: 50px;
+    margin-top: 1vh;
+    margin-left: 2vh;
+}
+#shop{
+    color: white;
+    background-color: black;
+    text-align:center;
+    letter-spacing: 5px;
+    border-radius: 50px;
+    margin-top: 1vh; 
+    margin-left: 85%;
+}
+body{
+    background-color: black;
+}
